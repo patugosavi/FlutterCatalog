@@ -21,10 +21,10 @@ Learn from codepur - https://www.youtube.com/watch?v=j-LOab_PzzU&t=29207s
 Output - 
 
 <p align="center">
-  <img src="[./images/image1.png](https://github.com/patugosavi/FlutterCatalog/blob/main/assets/output%20images/login.png)" alt="Login Page" width="45%">
-  <img src="[./images/image2.png](https://github.com/patugosavi/FlutterCatalog/blob/main/assets/output%20images/homepage.png)" alt="Home Page" width="45%">
+  <img src="https://github.com/patugosavi/FlutterCatalog/blob/main/assets/output%20images/login.png" alt="Login Page" width="45%">
+  <img src="https://github.com/patugosavi/FlutterCatalog/blob/main/assets/output%20images/homepage.png" alt="Home Page" width="45%">
 </p>
 <p align="center">
-  <img src=".[/images/image3.png](https://github.com/patugosavi/FlutterCatalog/blob/main/assets/output%20images/detail.png)" alt="Detail Page" width="45%">
-  <img src="[./images/image4.png](https://github.com/patugosavi/FlutterCatalog/blob/main/assets/output%20images/cartpage.png)" alt="Carty Page" width="45%">
+  <img src="ttps://github.com/patugosavi/FlutterCatalog/blob/main/assets/output%20images/detail.png" alt="Detail Page" width="45%">
+  <img src="https://github.com/patugosavi/FlutterCatalog/blob/main/assets/output%20images/cartpage.png" alt="Carty Page" width="45%">
 </p>
