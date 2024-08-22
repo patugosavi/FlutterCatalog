@@ -25,6 +25,6 @@ Output -
   <img src="https://github.com/patugosavi/FlutterCatalog/blob/main/assets/output%20images/homepage.png" alt="Home Page" width="45%">
 </p>
 <p align="center">
-  <img src="ttps://github.com/patugosavi/FlutterCatalog/blob/main/assets/output%20images/detail.png" alt="Detail Page" width="45%">
+  <img src="https://github.com/patugosavi/FlutterCatalog/blob/main/assets/output%20images/detail.png" alt="Detail Page" width="45%">
   <img src="https://github.com/patugosavi/FlutterCatalog/blob/main/assets/output%20images/cartpage.png" alt="Carty Page" width="45%">
 </p>
